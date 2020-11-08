@@ -7,7 +7,7 @@ The goal of this project is to create a fully functioning mock ecommerce site to
 [crwn-clothing](https://live-crwnclothing.herokuapp.com/)
 
 ## Technologies used:
-The technolofies used in this project were:
+The technologies used in this project were:
 
 * React/Redux (Front End)
 * Firebase (Auth, Database)
